@@ -16,5 +16,5 @@ I have my own Gitlab, and hence don't use github very often anymore.
 
 #### Socials
 - Website ⯈ [samh.dev](https://samh.dev])
-- Twitter ⯈ [0xSamHDev](https://twitter.com/0xSamHDev])
+- Twitter ⯈ [0xSamHDev](https://twitter.com/0xSamHDev)
 - Email ⯈ [public *at* samh *dot* dev](mailto:public@samh.dev)
