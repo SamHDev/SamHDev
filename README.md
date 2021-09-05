@@ -10,9 +10,9 @@ I'm competent in:
 - Javascript
 - Python
 - Java
-- Web *(Html+Css+Dom)*
+- Web *(HTML+CSS+DOM)*
 
-I have my own Gitlab, and hence don't use github very often anymore.
+I have my own Gitlab, and hence don't use Github very often anymore.
 
 #### Socials
 - Website ⯈ [samh.dev](https://samh.dev)
