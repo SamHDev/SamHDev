@@ -10,7 +10,7 @@ I'm competent in:
 - Javascript
 - Python
 - Java
-- Web *(HTML+CSS+DOM)*
+- Web *(HTML+CSS+DOM+WASM)*
 
 I have my own Gitlab, and hence don't use Github very often anymore.
 
