@@ -2,7 +2,7 @@
 
 I'm Sam, an aspiring full stack developer, focusing on web-development and backend-functionally.
 
-I'm from the UK and currently taking A-Level Computer Science and Further Mathematics.
+I'm from the UK and currently taking BSC Computer Science.
 
 I'm competent in:
 - Rust
