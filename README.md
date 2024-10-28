@@ -1,8 +1,8 @@
 ### Hey!
 
-I'm Sam, an aspiring full stack developer, focusing on web-development and backend-functionally.
+I'm Sam, an software engineer with a passion for systems programming, distributed systems, and high-perfomance services.
 
-I'm from the UK and currently taking BSC Computer Science.
+I'm from the UK and recently graduated with a BSC Computer Science.
 
 I'm competent in:
 - Rust
